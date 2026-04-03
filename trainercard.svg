@@ -19,7 +19,7 @@
   <!-- Trainer info -->
   <text x="30" y="100" font-size="8" fill="#aaaaaa" font-family="'Courier New', monospace">NAME  :</text>
   <text x="115" y="100" font-size="8" fill="#FF69B4" font-family="'Courier New', monospace">RAFIA AUTHOI</text>
-  <text x="30" y="118" font-size="8" fill="#aaaaaa" font-family="'Courier New', monospace">CLASS :</text>
+  <text x="30" y="118" font-size="8" fill="#aaaaaa" font-family="'Courier New', monospace">ROLE :</text>
   <text x="115" y="118" font-size="8" fill="#ffffff" font-family="'Courier New', monospace">DATA ANALYST</text>
   <text x="30" y="136" font-size="8" fill="#aaaaaa" font-family="'Courier New', monospace">REGION:</text>
   <text x="115" y="136" font-size="8" fill="#ffffff" font-family="'Courier New', monospace">KALAMAZOO, MI</text>
@@ -31,17 +31,17 @@
   <!-- SKILLSET -->
   <text x="30" y="188" font-size="9" fill="#FF69B4" font-family="'Courier New', monospace" font-weight="bold">▶ SKILLSET</text>
 
-  <text x="30" y="210" font-size="8" fill="#aaaaaa" font-family="'Courier New', monospace">SQL     </text>
+  <text x="30" y="210" font-size="8" fill="#aaaaaa" font-family="'Courier New', monospace">EXCEL     </text>
   <rect x="115" y="200" width="290" height="10" fill="#1e1e3a" rx="2"/>
   <rect x="115" y="200" width="247" height="10" fill="#FF69B4" rx="2"/>
-  <text x="415" y="210" font-size="8" fill="#44ff88" font-family="'Courier New', monospace">85</text>
+  <text x="415" y="210" font-size="8" fill="#44ff88" font-family="'Courier New', monospace">95</text>
 
   <text x="30" y="228" font-size="8" fill="#aaaaaa" font-family="'Courier New', monospace">POWER BI</text>
   <rect x="115" y="218" width="290" height="10" fill="#1e1e3a" rx="2"/>
   <rect x="115" y="218" width="218" height="10" fill="#FF69B4" rx="2"/>
   <text x="415" y="228" font-size="8" fill="#44ff88" font-family="'Courier New', monospace">75</text>
 
-  <text x="30" y="246" font-size="8" fill="#aaaaaa" font-family="'Courier New', monospace">TABLEAU </text>
+  <text x="30" y="246" font-size="8" fill="#aaaaaa" font-family="'Courier New', monospace">SQL </text>
   <rect x="115" y="236" width="290" height="10" fill="#1e1e3a" rx="2"/>
   <rect x="115" y="236" width="203" height="10" fill="#FF69B4" rx="2"/>
   <text x="415" y="246" font-size="8" fill="#44ff88" font-family="'Courier New', monospace">70</text>
@@ -51,10 +51,6 @@
   <rect x="115" y="254" width="174" height="10" fill="#FF69B4" rx="2"/>
   <text x="415" y="264" font-size="8" fill="#44ff88" font-family="'Courier New', monospace">60</text>
 
-  <text x="30" y="282" font-size="8" fill="#aaaaaa" font-family="'Courier New', monospace">CYBER   </text>
-  <rect x="115" y="272" width="290" height="10" fill="#1e1e3a" rx="2"/>
-  <rect x="115" y="272" width="189" height="10" fill="#FF69B4" rx="2"/>
-  <text x="415" y="282" font-size="8" fill="#44ff88" font-family="'Courier New', monospace">65</text>
 
   <line x1="20" y1="296" x2="480" y2="296" stroke="#FF69B4" stroke-width="1" stroke-dasharray="6,4"/>
 
