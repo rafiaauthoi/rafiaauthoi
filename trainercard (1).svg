@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="500" height="700" viewBox="0 0 500 700">
+  <defs>
+    <pattern id="grid" width="20" height="20" patternUnits="userSpaceOnUse">
+      <path d="M 20 0 L 0 0 0 20" fill="none" stroke="#2a2a4a" stroke-width="0.5"/>
+    </pattern>
+  </defs>
+
+  <rect width="500" height="700" fill="#0d0d1a" rx="16"/>
+  <rect width="500" height="700" fill="url(#grid)" rx="16"/>
+  <rect x="8" y="8" width="484" height="684" fill="none" stroke="#FF69B4" stroke-width="2" rx="12" stroke-dasharray="8,4"/>
+  <rect x="14" y="14" width="472" height="672" fill="none" stroke="#ff69b455" stroke-width="1" rx="10"/>
+
+  <rect x="20" y="20" width="460" height="44" fill="#FF69B4" rx="8"/>
+  <text x="250" y="48" text-anchor="middle" font-size="13" fill="#1a0010" font-family="'Courier New', monospace" font-weight="bold">* TRAINER CARD *</text>
+
+  <line x1="20" y1="76" x2="480" y2="76" stroke="#FF69B4" stroke-width="1" stroke-dasharray="6,4"/>
+
+  <text x="30" y="100" font-size="8" fill="#aaaaaa" font-family="'Courier New', monospace">NAME  :</text>
+  <text x="115" y="100" font-size="8" fill="#FF69B4" font-family="'Courier New', monospace">RAFIA AUTHOI</text>
+  <text x="30" y="118" font-size="8" fill="#aaaaaa" font-family="'Courier New', monospace">CLASS :</text>
+  <text x="115" y="118" font-size="8" fill="#ffffff" font-family="'Courier New', monospace">DATA ANALYST</text>
+  <text x="30" y="136" font-size="8" fill="#aaaaaa" font-family="'Courier New', monospace">REGION:</text>
+  <text x="115" y="136" font-size="8" fill="#ffffff" font-family="'Courier New', monospace">KALAMAZOO, MI</text>
+  <text x="30" y="154" font-size="8" fill="#aaaaaa" font-family="'Courier New', monospace">BADGE :</text>
+  <text x="115" y="154" font-size="8" fill="#FFD700" font-family="'Courier New', monospace">WMU CIS * CYBERSEC MINOR</text>
+
+  <line x1="20" y1="168" x2="480" y2="168" stroke="#FF69B4" stroke-width="1" stroke-dasharray="6,4"/>
+
+  <text x="30" y="188" font-size="9" fill="#FF69B4" font-family="'Courier New', monospace" font-weight="bold">▶ SKILLSET</text>
+
+  <text x="30" y="210" font-size="8" fill="#aaaaaa" font-family="'Courier New', monospace">SQL     </text>
+  <rect x="115" y="200" width="290" height="10" fill="#1e1e3a" rx="2"/>
+  <rect x="115" y="200" width="247" height="10" fill="#FF69B4" rx="2"/>
+  <text x="415" y="210" font-size="8" fill="#44ff88" font-family="'Courier New', monospace">85</text>
+
+  <text x="30" y="228" font-size="8" fill="#aaaaaa" font-family="'Courier New', monospace">POWER BI</text>
+  <rect x="115" y="218" width="290" height="10" fill="#1e1e3a" rx="2"/>
+  <rect x="115" y="218" width="218" height="10" fill="#FF69B4" rx="2"/>
+  <text x="415" y="228" font-size="8" fill="#44ff88" font-family="'Courier New', monospace">75</text>
+
+  <text x="30" y="246" font-size="8" fill="#aaaaaa" font-family="'Courier New', monospace">TABLEAU </text>
+  <rect x="115" y="236" width="290" height="10" fill="#1e1e3a" rx="2"/>
+  <rect x="115" y="236" width="203" height="10" fill="#FF69B4" rx="2"/>
+  <text x="415" y="246" font-size="8" fill="#44ff88" font-family="'Courier New', monospace">70</text>
+
+  <text x="30" y="264" font-size="8" fill="#aaaaaa" font-family="'Courier New', monospace">PYTHON  </text>
+  <rect x="115" y="254" width="290" height="10" fill="#1e1e3a" rx="2"/>
+  <rect x="115" y="254" width="174" height="10" fill="#FF69B4" rx="2"/>
+  <text x="415" y="264" font-size="8" fill="#44ff88" font-family="'Courier New', monospace">60</text>
+
+  <text x="30" y="282" font-size="8" fill="#aaaaaa" font-family="'Courier New', monospace">CYBER   </text>
+  <rect x="115" y="272" width="290" height="10" fill="#1e1e3a" rx="2"/>
+  <rect x="115" y="272" width="189" height="10" fill="#FF69B4" rx="2"/>
+  <text x="415" y="282" font-size="8" fill="#44ff88" font-family="'Courier New', monospace">65</text>
+
+  <line x1="20" y1="296" x2="480" y2="296" stroke="#FF69B4" stroke-width="1" stroke-dasharray="6,4"/>
+
+  <text x="30" y="316" font-size="9" fill="#FF69B4" font-family="'Courier New', monospace" font-weight="bold">▶ PARTY POKEMON</text>
+
+  <rect x="30" y="326" width="96" height="96" fill="#1a1a2e" rx="6" stroke="#FF69B4" stroke-width="1.5"/>
+  <image href="data:image/png;base64,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" x="30" y="326" width="96" height="96" image-rendering="pixelated"/>
+  <text x="78" y="432" text-anchor="middle" font-size="7" fill="#ffffff" font-family="'Courier New', monospace">BULBASAUR</text>
+  <text x="78" y="446" text-anchor="middle" font-size="7" fill="#44ff88" font-family="'Courier New', monospace">LVL 12</text>
+
+  <rect x="145" y="326" width="96" height="96" fill="#1a1a2e" rx="6" stroke="#FF69B4" stroke-width="1.5"/>
+  <image href="data:image/png;base64,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" x="145" y="326" width="96" height="96" image-rendering="pixelated"/>
+  <text x="193" y="432" text-anchor="middle" font-size="7" fill="#ffffff" font-family="'Courier New', monospace">CLODSIRE</text>
+  <text x="193" y="446" text-anchor="middle" font-size="7" fill="#44ff88" font-family="'Courier New', monospace">LVL 18</text>
+
+  <line x1="20" y1="460" x2="480" y2="460" stroke="#FF69B4" stroke-width="1" stroke-dasharray="6,4"/>
+
+  <text x="30" y="480" font-size="9" fill="#FF69B4" font-family="'Courier New', monospace" font-weight="bold">▶ ACHIEVEMENTS</text>
+  <text x="30" y="500" font-size="8" fill="#FFD700" font-family="'Courier New', monospace">* WMU CIS Student</text>
+  <text x="30" y="516" font-size="8" fill="#FFD700" font-family="'Courier New', monospace">* Cybersecurity Minor Active</text>
+  <text x="30" y="532" font-size="8" fill="#FFD700" font-family="'Courier New', monospace">* First Project Deployed</text>
+
+  <line x1="20" y1="546" x2="480" y2="546" stroke="#FF69B4" stroke-width="1" stroke-dasharray="6,4"/>
+
+  <text x="30" y="566" font-size="9" fill="#FF69B4" font-family="'Courier New', monospace" font-weight="bold">▶ CURRENT QUEST</text>
+  <text x="30" y="586" font-size="8" fill="#ffffff" font-family="'Courier New', monospace">→ DEFEAT: Entry-Level Job Market</text>
+  <text x="30" y="602" font-size="8" fill="#ffffff" font-family="'Courier New', monospace">→ COLLECT: Internship Badge</text>
+  <text x="30" y="618" font-size="8" fill="#ffffff" font-family="'Courier New', monospace">→ UNLOCK: DB Architect Title</text>
+
+  <line x1="20" y1="632" x2="480" y2="632" stroke="#FF69B4" stroke-width="1" stroke-dasharray="6,4"/>
+
+  <text x="30" y="650" font-size="8" fill="#aaaaaa" font-family="'Courier New', monospace">EXP</text>
+  <rect x="72" y="640" width="310" height="10" fill="#1e1e3a" rx="2"/>
+  <rect x="72" y="640" width="170" height="10" fill="#FFD700" rx="2"/>
+  <text x="392" y="650" font-size="8" fill="#FFD700" font-family="'Courier New', monospace">55%</text>
+  <text x="440" y="650" font-size="8" fill="#aaaaaa" font-family="'Courier New', monospace">LV.3</text>
+
+  <text x="250" y="678" text-anchor="middle" font-size="8" fill="#44ff88" font-family="'Courier New', monospace">▮ OPEN TO WORK</text>
+  <text x="250" y="694" text-anchor="middle" font-size="7" fill="#FF69B4" font-family="'Courier New', monospace">ANALYST IN TRAINING</text>
+</svg>
