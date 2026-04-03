@@ -36,7 +36,7 @@
   <!-- SKILLSET -->
   <text x="30" y="188" font-size="9" fill="#FF69B4" font-family="'Courier New', monospace" font-weight="bold">▶ SKILLSET</text>
 
-  <text x="30" y="210" font-size="8" fill="#aaaaaa" font-family="'Courier New', monospace">EXCEL  </text>
+  <text x="30" y="210" font-size="8" fill="#aaaaaa" font-family="'Courier New', monospace"> EXCEL  </text>
   <rect x="115" y="200" width="290" height="10" fill="#1e1e3a" rx="2"/>
   <rect x="115" y="200" width="247" height="10" fill="#FF69B4" rx="2"/>
   <text x="415" y="210" font-size="8" fill="#44ff88" font-family="'Courier New', monospace">95</text>
