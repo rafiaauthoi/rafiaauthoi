@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&color=FF69B4&size=18&lines=Hi+I+am+Rafia;Data+Analyst;Business+Intelligence;Database+%26+Systems+Explorer)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&color=FF69B4&size=22&width=600&lines=Hi+I+am+Rafia;Data+Analyst;Business+Intelligence;Database+%26+Systems+Explorer)
 
 ![Trainer Card](./trainercard.svg)
 
