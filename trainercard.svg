@@ -19,24 +19,24 @@
   <!-- Trainer info -->
   <text x="30" y="100" font-size="8" fill="#aaaaaa" font-family="'Courier New', monospace">NAME  :</text>
   <text x="115" y="100" font-size="8" fill="#FF69B4" font-family="'Courier New', monospace">RAFIA AUTHOI</text>
-  <text x="30" y="118" font-size="8" fill="#aaaaaa" font-family="'Courier New', monospace">ROLE :</text>
-  <text x="115" y="118" font-size="8" fill="#ffffff" font-family="'Courier New', monospace">DATA ANALYST</text>
+  <text x="30" y="118" font-size="8" fill="#aaaaaa" font-family="'Courier New', monospace">TRAINER TYPE :</text>
+  <text x="115" y="118" font-size="8" fill="#ffffff" font-family="'Courier New', monospace">SWE | DATA | SECURITY</text>
   <text x="30" y="136" font-size="8" fill="#aaaaaa" font-family="'Courier New', monospace">REGION:</text>
   <text x="115" y="136" font-size="8" fill="#ffffff" font-family="'Courier New', monospace">KALAMAZOO, MI</text>
-  <text x="30" y="154" font-size="8" fill="#aaaaaa" font-family="'Courier New', monospace">BADGE :</text>
-  <text x="115" y="154" font-size="8" fill="#FFD700" font-family="'Courier New', monospace">WMU CIS * CYBERSEC MINOR</text>
+  <text x="30" y="154" font-size="8" fill="#aaaaaa" font-family="'Courier New', monospace">BADGES :</text>
+  <text x="115" y="154" font-size="8" fill="#FFD700" font-family="'Courier New', monospace">WMU CIS HONORS * CYBERSEC * UX</text>
 
   <line x1="20" y1="168" x2="480" y2="168" stroke="#FF69B4" stroke-width="1" stroke-dasharray="6,4"/>
 
   <!-- SKILLSET -->
-  <text x="30" y="188" font-size="9" fill="#FF69B4" font-family="'Courier New', monospace" font-weight="bold">▶ SKILLSET</text>
+  <text x="30" y="188" font-size="9" fill="#FF69B4" font-family="'Courier New', monospace" font-weight="bold">▶ TRAINER STATS</text>
 
-  <text x="30" y="210" font-size="8" fill="#aaaaaa" font-family="'Courier New', monospace">EXCEL     </text>
+  <text x="30" y="210" font-size="8" fill="#aaaaaa" font-family="'Courier New', monospace">PYTHON     </text>
   <rect x="115" y="200" width="290" height="10" fill="#1e1e3a" rx="2"/>
   <rect x="115" y="200" width="247" height="10" fill="#FF69B4" rx="2"/>
-  <text x="415" y="210" font-size="8" fill="#44ff88" font-family="'Courier New', monospace">95</text>
+  <text x="415" y="210" font-size="8" fill="#44ff88" font-family="'Courier New', monospace">90</text>
 
-  <text x="30" y="228" font-size="8" fill="#aaaaaa" font-family="'Courier New', monospace">POWER BI</text>
+  <text x="30" y="228" font-size="8" fill="#aaaaaa" font-family="'Courier New', monospace">JS</text>
   <rect x="115" y="218" width="290" height="10" fill="#1e1e3a" rx="2"/>
   <rect x="115" y="218" width="218" height="10" fill="#FF69B4" rx="2"/>
   <text x="415" y="228" font-size="8" fill="#44ff88" font-family="'Courier New', monospace">75</text>
@@ -44,18 +44,18 @@
   <text x="30" y="246" font-size="8" fill="#aaaaaa" font-family="'Courier New', monospace">SQL </text>
   <rect x="115" y="236" width="290" height="10" fill="#1e1e3a" rx="2"/>
   <rect x="115" y="236" width="203" height="10" fill="#FF69B4" rx="2"/>
-  <text x="415" y="246" font-size="8" fill="#44ff88" font-family="'Courier New', monospace">70</text>
+  <text x="415" y="246" font-size="8" fill="#44ff88" font-family="'Courier New', monospace">85</text>
 
-  <text x="30" y="264" font-size="8" fill="#aaaaaa" font-family="'Courier New', monospace">PYTHON  </text>
+  <text x="30" y="264" font-size="8" fill="#aaaaaa" font-family="'Courier New', monospace">UX/UI  </text>
   <rect x="115" y="254" width="290" height="10" fill="#1e1e3a" rx="2"/>
   <rect x="115" y="254" width="174" height="10" fill="#FF69B4" rx="2"/>
-  <text x="415" y="264" font-size="8" fill="#44ff88" font-family="'Courier New', monospace">60</text>
+  <text x="415" y="264" font-size="8" fill="#44ff88" font-family="'Courier New', monospace">70</text>
 
 
   <line x1="20" y1="296" x2="480" y2="296" stroke="#FF69B4" stroke-width="1" stroke-dasharray="6,4"/>
 
   <!-- PARTY - all 6 in one row, 62px each with 5px gaps -->
-  <text x="30" y="316" font-size="9" fill="#FF69B4" font-family="'Courier New', monospace" font-weight="bold">▶ PARTY POKEMON</text>
+  <text x="30" y="316" font-size="9" fill="#FF69B4" font-family="'Courier New', monospace" font-weight="bold">▶ TRAINER PARTY</text>
 
   <!-- Bulbasaur x=22 -->
   <rect x="22" y="326" width="62" height="62" fill="#1a1a2e" rx="5" stroke="#FF69B4" stroke-width="1"/>
