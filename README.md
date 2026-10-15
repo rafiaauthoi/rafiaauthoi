@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&color=FF69B4&size=22&width=900&duration=4000&pause=1000&lines=A+wild+developer+appeared%21;Hello%21+I+am+Rafia;Software+Engineer;Data+%E2%80%A2+Systems+%E2%80%A2+Cybersecurity;Powered+by+Z.S+White+Monster+Energy+Drink)]()
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&color=FF69B4&size=22&width=900&duration=4000&pause=1000&lines=A+wild+developer+appeared%21;Hello%21+I+am+Rafia;Software+Engineer;Data+%E2%80%A2+Systems+%E2%80%A2+Cybersecurity;Powered+by+White+Monster+Energy+Drink)]()
 
 ![Trainer Card](./trainercard.svg)
 
